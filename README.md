@@ -27,8 +27,10 @@ or
 ## Jenkins의 CPPNCSS 플러그인 설치할 것
 
 ## 이후의 설정
+빌드 후 조치 추가 -> Publish Cpp NCSS Report...
 
-![image](https://user-images.githubusercontent.com/8405564/176076421-faeea442-97b4-47c0-8abc-f251027a1fb2.png)
+![image](https://user-images.githubusercontent.com/8405564/181681215-25f9747b-2de6-460e-b3ad-d9e44e28aa59.png)
+
 
 
 ## CLOC 다운로드
