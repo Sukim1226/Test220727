@@ -20,7 +20,10 @@ lizard.exe -C 10 --csv > lizard_result.csv
 ```
 lizard ./src -C 10 -L 80 --xml > lizard.xml
 ```
-
+or
+```
+"C:\Users\cypark\AppData\Local\Programs\Python\Python310\Scripts\lizard" ./src -C 10 -L 80 --xml > lizard.xml
+```
 ## Jenkins의 CPPNCSS 플러그인 설치할 것
 
 ## 이후의 설정
