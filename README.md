@@ -51,6 +51,11 @@ cpd.bat --minimum-tokens 100 --files . --language cpp --format csv > cpd_result.
 ```
 cpd --minimum-tokens 100 --files ./src --language cpp --format xml > cpd.xml || exit 0
 ```
+or
+만약, C:\DevTools\PMD에 CPD가 있다면...
+```
+C:\DevTools\pmd\bin\cpd --minimum-tokens 100 --files ./src --language cpp --format xml > cpd.xml || exit 0
+```
 
 ### CPD Jenkins Report 설정
 ![image](https://user-images.githubusercontent.com/8405564/176077844-ea35faa3-84aa-4455-84e4-b968bb0be7e2.png)
